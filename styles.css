@@ -116,10 +116,10 @@ h3 {
 
 .btn--full {
     width: 100%;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
 }
 
 /* Header */
